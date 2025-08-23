@@ -1,0 +1,21 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(177, 122, 3);
+    height: 40px;
+    padding-top: 25px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+body{
+    margin: 10
+}
+p a{
+    color: white;
+    text-decoration: none; /*tira sublinhado*/
+}
+p a:hover{
+    color: rgb(46, 16, 4)
+}
