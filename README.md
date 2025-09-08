@@ -1,1 +1,1 @@
-Atividade prática sobre a criação de site com header e footer realizada na aula da disciplina de Programação para Internet
+Atividade sobre criação de site com header e footer para a disciplina de Programação para Internet com o professor Bruno Aguiar.
